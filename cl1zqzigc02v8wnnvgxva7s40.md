@@ -138,7 +138,7 @@ Disclaimer : Changing the problem / changing the solution if you’re not gettin
 
 Questions from the audience.
 
-**Question1:** **Hello @Lady Omega Hammond Thank you for your insightful answers.**
+**Question1:** **Hello Lady Omega Hammond Thank you for your insightful answers.**
 
 _**Were there times you felt you couldn't do this?**_  
 
