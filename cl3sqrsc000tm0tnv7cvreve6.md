@@ -15,11 +15,43 @@ Over the span of 3 days from the **13th to 15th of October 2022**, attendees wil
 
 We aim to be an accessible, community-driven conference, with novice to advanced level presentations. Tutorials and talks bring attendees the latest project features along with cutting-edge use cases. The conference is organized by the people for the people providing an excellent quality level of content. Newcomers are explicitly welcome!
 
-Visit our website at [**https://gh.pycon.org/**](https://gh.pycon.org/) for more information and [**PyConGhana**](https://twitter.com/PyconGhana/) on Twitter for updates.
-
 We are really excited about this!
 
 Can’t wait to see you all. 
+
+
+**Website:**
+
+Visit our conference website [**https://gh.pycon.org/**](https://gh.pycon.org/) for more information.
+
+**Social media:**
+
+Twitter -  [**PyConGhana**](https://twitter.com/PyconGhana/) 
+Instagram - [**PyConGhana**](https://instagram.com/PyconGhana/) 
+
+**Venue and Ticketing:**
+
+Update on the venue and ticketing will be made available on the website. Stay tuned!.
+
+Call for proposals and volunteers:
+Stay informed on all our social media platforms as we keep you updated on the opening of registration for volunteers and a call for proposals for the conference.
+
+
+**Important Dates to note:**
+
+CFP opens - on 6th June 2022
+Financial aid applications open - on 5th August 2022
+CFP closes - on 8th August 2022
+Call for volunteers opens - on 5th September 2022 
+Accepted talks will be announced and Financial aid applications close - on 8th September 2022.
+Call for volunteers closes - 30th September 2022 
+
+**Call for Sponsors:**
+
+The Python community is growing very quickly and the interest in developer communities across the continent is evidenced by the large number of companies establishing headquarters in various African cities. We are grateful to be part of this growth and hope to invite you to join us. PyCon Ghana can only happen with the support of sponsors and the community.
+Your sponsorship will enable us to provide the best experience for every attendee and make plans to expand our reach for next year.
+To view more information on how you can get involved by sponsoring us, kindly visit [**here**](https://gh.pycon.org/support-us/) to see our sponsorship opportunities.
+
 
 
 
