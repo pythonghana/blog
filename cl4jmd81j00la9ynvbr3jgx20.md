@@ -1,4 +1,4 @@
-## PYTHON FOR CYBERSECURITY
+## Python for Cybersecurity
 
 Are you under the impression that everyone in the cyber-security field is a hacker? Well, it turns out that there are three separate teams: red (offensive), blue (defensive), and incident response, which make up the key cybersecurity capabilities. Learn more about these teams, cybersecurity in general, and how [Slyvia Worlali Azumah](https://www.linkedin.com/in/sylvia-worlali-azumah-81a246158/), a PhD student at the University of Cincinnati, is pushing the boundaries.
 
