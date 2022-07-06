@@ -6,7 +6,7 @@ We are super excited to announce and welcome you to another rendition of PyCon G
 
 We are back, after the lengthy hiatus due to being the host of [PyCon Africa 2019](https://bit.ly/PyConGH-PA19) and the pandemic.
 
-First and foremost, we would like to send our very best to everyone as we all continue to navigate the challenges of COVID-19. We have implemented COVID-19 guidelines and protocols to be followed by attendees at the PyCon Ghana 2022.
+First and foremost, we would like to send our very best to everyone as we all continue to navigate the challenges of COVID-19. We have implemented [COVID-19 guidelines and protocols](https://docs.pythonghana.org/pycon-gh-2022-health-and-safety-guidelines/health-and-safety-guidelines-for-pycon-ghana) to be followed by attendees at the PyCon Ghana 2022.
 
 In the meantime, our organizers and volunteers are working hard to bring you a fun, informative, and energizing event filled with loads of networking, tutorials, in-person collaboration, open-source contributions, and so much more! Not to mention the great fun it will be gathering together once again after a long while. 
 
