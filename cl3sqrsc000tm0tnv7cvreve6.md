@@ -36,8 +36,8 @@ Stay informed on all our social media platforms as we keep you updated on the op
 
 #### Important Dates to note:
 **CFP opens** - on 6th June 2022.<br>
-**Financial aid applications open** - on 5th August 2022.<br>
 **CFP closes** - on 8th August 2022.<br>
+**Financial aid applications open** - on 15th August 2022.<br>
 **Call for volunteers opens** - on 5th September 2022.<br>
 **Accepted talks will be announced** and **Financial aid applications close** - on 8th September 2022.<br>
 **Call for volunteers closes** - 30th September 2022.
