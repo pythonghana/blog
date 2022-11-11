@@ -45,7 +45,7 @@ Principal Engineer at Anaconda, [Nicholas Tollevery](https://ntoll.org/), led th
 ![RexNii.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1666094257069/f3yXK1T1V.jpg align="left")
 ![PyconTeam.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1666094265197/c_v85YftI.jpg align="left")
 
-PyCon 22 was crowned with other interesting speakers in various group sections, Discussing Pyclick with Afi Abigail, Supabase.py with Jack Lee, Building your software career to the Top with Prince Dorcis-Akpaglo and so much amazing speakers.
+PyCon 22 was crowned with other interesting speakers in various group sections, Discussing Pyclick with Afi Abigail, Supabase.py with Joel Lee, Building your software career to the Top with Prince Dorcis-Akpaglo and so much amazing speakers.
 
 
 ![china.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1666094295567/dFtSuSBSl.jpg align="left")
