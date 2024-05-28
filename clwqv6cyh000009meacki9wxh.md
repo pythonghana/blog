@@ -3,7 +3,7 @@ title: "Unveiling  VetDataHub: Centralizing Veterinary  Datasets for AI and ML R
 datePublished: Tue May 28 2024 20:42:46 GMT+0000 (Coordinated Universal Time)
 cuid: clwqv6cyh000009meacki9wxh
 slug: unveiling-vetdatahub-centralizing-veterinary-datasets-for-ai-and-ml-research
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716812317636/c3f5dff9-b11b-42bb-8a52-c798f40fead4.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716932024509/801df780-895e-42c4-b4d5-a00a31c8dced.jpeg
 tags: python, data-science, pythonghana
 
 ---
